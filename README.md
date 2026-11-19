@@ -1,3 +1,7 @@
+[![make.fun · gta6-cover-art-01](https://make.fun/badge/gta6-cover-art-01.svg)](https://make.fun/bounty/gta6-cover-art-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
+[![rank](https://make.fun/badge/gta6-cover-art-01/Revaaa28/makefun-gta6-cover-art-01-v3/rank.svg)](https://make.fun/bounty/gta6-cover-art-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
+[![reward](https://make.fun/badge/gta6-cover-art-01/Revaaa28/makefun-gta6-cover-art-01-v3/reward.svg)](https://make.fun/bounty/gta6-cover-art-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
+
 # NEON COAST — Vice Cover Studio
 
 A make.fun entry for **gta6-cover-art-01** ("Make GTA 6 Cover Art").
@@ -54,6 +58,8 @@ export size.
 (`MAKEFUN_OUTPUT_DIR`, default `/output`) and writes `dossier.json` with the
 vendored make.fun library in `vendor/makefun-app.ts`.
 
-[![Live leaderboard](https://make.fun/api/competitions/gta6-cover-art-01/badge.svg?field=leaderboard)](https://make.fun/bounty/gta6-cover-art-01)
-[![Dev grade](https://make.fun/api/competitions/gta6-cover-art-01/badge.svg?field=grade)](https://make.fun/bounty/gta6-cover-art-01)
-[![make.fun](https://make.fun/api/competitions/gta6-cover-art-01/badge.svg?field=brand)](https://make.fun/bounty/gta6-cover-art-01)
+## Screenshots
+- `screenshots/1-cover.jpg` — the exported nine-panel Poster Ink cover at landscape size
+- `screenshots/2-editor.jpg` — the editor with the sample library loaded and a panel selected
+- `screenshots/3-portrait.jpg` — the exported portrait cover in the Neon Nights grade
+- `screenshots/4-square.jpg` — the exported square cover in the tilted-snapshot layout
